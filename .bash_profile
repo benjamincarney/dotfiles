@@ -1,5 +1,7 @@
 # .bash_profile
 
+export PATH=/usr/local/bin:/usr/local/sbin:$PATH
+
 # Get the aliases and functions
 if [ -f ~/.bashrc ]; then
 	. ~/.bashrc
