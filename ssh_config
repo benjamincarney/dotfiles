@@ -1,4 +1,9 @@
-host ben
-  HostName benjamincarney.github.io
-  Port 5555
+host mmd
+  HostName login.engin.umich.edu
   User carneyb
+  Compression yes
+
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/github.key
