@@ -2,7 +2,6 @@ if [ -f ~/.bashrc ]; then
    source ~/.bashrc
 fi
 
-alias q=’exit’
 alias c=’clear’
 alias h=’history’
 alias cs=’clear;ls’
