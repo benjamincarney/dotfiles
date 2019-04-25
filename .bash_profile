@@ -1,4 +1,4 @@
-# .bash_pr
+# .bash_p
 
 export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 
