@@ -1,4 +1,4 @@
-# .bash_profi
+# .bash_prof
 
 export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 
