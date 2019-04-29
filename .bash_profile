@@ -2,7 +2,7 @@
 
 export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 
-# Get the aliases and functions
+# Get the aliases 
 if [ -f ~/.bashrc ]; then
 	. ~/.bashrc
 fi
